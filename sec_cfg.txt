@@ -1,0 +1,5 @@
+canon
+subsector
+inhabited
+Default Sector
+Output.sec
